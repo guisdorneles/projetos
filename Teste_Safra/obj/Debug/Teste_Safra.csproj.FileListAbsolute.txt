@@ -1,0 +1,7 @@
+C:\Users\guisd\Documents\Visual Studio 2019\Projects\Teste_Safra\Teste_Safra\bin\Debug\Teste_Safra.exe.config
+C:\Users\guisd\Documents\Visual Studio 2019\Projects\Teste_Safra\Teste_Safra\bin\Debug\Teste_Safra.exe
+C:\Users\guisd\Documents\Visual Studio 2019\Projects\Teste_Safra\Teste_Safra\bin\Debug\Teste_Safra.pdb
+C:\Users\guisd\Documents\Visual Studio 2019\Projects\Teste_Safra\Teste_Safra\obj\Debug\Teste_Safra.csprojAssemblyReference.cache
+C:\Users\guisd\Documents\Visual Studio 2019\Projects\Teste_Safra\Teste_Safra\obj\Debug\Teste_Safra.csproj.CoreCompileInputs.cache
+C:\Users\guisd\Documents\Visual Studio 2019\Projects\Teste_Safra\Teste_Safra\obj\Debug\Teste_Safra.exe
+C:\Users\guisd\Documents\Visual Studio 2019\Projects\Teste_Safra\Teste_Safra\obj\Debug\Teste_Safra.pdb
